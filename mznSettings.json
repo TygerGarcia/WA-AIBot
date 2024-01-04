@@ -1,10 +1,10 @@
 {
-  "OPENAI_APIKEY": "api-key",
+  "OPENAI_APIKEY": "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",
   "BARD_1PSID_KEY": "api-key",
-  "BOT_ONLINE": "false",
+  "BOT_ONLINE": "true",
   "READ_MESSAGES": "false",
   "BOT_PREFIX": ".",
-  "OWNER_NUMBER": "94771227821@s.whatsapp.net",
+  "OWNER_NUMBER": "27787896221@s.whatsapp.net",
   "OWNER_EMOJI": "🎭",
   "PORT": "8000"
 }
